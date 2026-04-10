@@ -1,0 +1,11 @@
+NAME: Kaja
+LOCATION: Your city / location here
+
+BLOCK: 07:00-09:00 | Morning routine |
+BLOCK: 09:00-12:00 | University / studying | Fill in your actual schedule
+BLOCK: 12:00-13:00 | Lunch |
+BLOCK: 13:00-17:00 | University / work | Fill in your actual schedule
+BLOCK: 17:00-18:00 | Case prep | Daily practice session
+BLOCK: 18:00-19:00 | Dinner |
+BLOCK: 19:00-21:00 | Startup work | Business idea / building
+BLOCK: 21:00-22:00 | Relaxation |
