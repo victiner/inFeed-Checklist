@@ -1,0 +1,96 @@
+NAME: Kaja
+ROLE: Consulting prep · degree decisions · startup
+
+KPI: Cases practiced | 20
+KPI: Decision deadline | May 2026
+KPI: Business ideas evaluated | 10
+KPI: First marketing posts | 5
+
+PHASE: critical | This week — urgent | Start today
+
+SECTION: Consulting case prep
+
+ITEM: tag=product | effort=1 hr/day | Complete one full case per day
+Use Case in Point or prepLounge. Time yourself strictly — 40 minutes per case. Write down what you got wrong after each one.
+
+ITEM: tag=product | effort=2 hrs | Map your weak areas
+After 5 cases, identify the frameworks you keep missing. Profitability? Market sizing? M&A? Focus the next week on those only.
+
+ITEM: tag=content | effort=1 hr | Research your target firms' case styles
+McKinsey, BCG, and Bain all have different formats. Know which you're targeting and find 3 example cases from each.
+
+ITEM: tag=product | effort=30 min | Find a case partner
+prepLounge or your university network. Aim for 3 sessions per week — verbal practice is different from solo prep.
+
+SECTION: Degree decision — GMAT vs CEMS vs double degree
+
+ITEM: tag=product | effort=2 hrs | List your actual criteria
+Write down what you want in 3 years. Then score each option (GMAT/MBA, CEMS, double degree) against those criteria honestly. Not what sounds impressive — what actually fits your goals.
+
+ITEM: tag=product | effort=1 hr | Research CEMS deadlines
+Find the exact application deadline, required GPA, partner schools available from your university, and language requirements.
+
+ITEM: tag=product | effort=1 hr | Research double degree options
+Which partner universities does your school offer? What are the application windows? Do any overlap with consulting recruiting timelines?
+
+ITEM: tag=product | effort=1 hr | Speak to someone doing each path
+One person doing CEMS, one doing a double degree, one who took the GMAT route. 20-minute calls. Ask what they wish they knew before deciding.
+
+ITEM: tag=content | effort=30 min | Set a hard decision date
+Pick a date by which you will have decided. Put it in your calendar. Decisions made under open-ended timelines never get made.
+
+PHASE: soon | Business idea — this week | Evaluate and pick one
+
+SECTION: Finding a winning idea
+
+ITEM: tag=growth | effort=2 hrs | Generate 10 ideas using the right filter
+A good idea for you right now: something you can build with AI in days, that solves a real pain for a specific person, that you can start marketing next week without a finished product. Write 10. Don't evaluate yet.
+
+ITEM: tag=growth | effort=1 hr | Score each idea on 4 criteria
+(1) Can you build an MVP with AI in under a week? (2) Do you know exactly who the customer is? (3) Can you reach them on LinkedIn or Instagram? (4) Would you pay for this yourself? Score 1-3 on each.
+
+ITEM: tag=growth | effort=30 min | Pick the top 2 and stress-test them
+For each: who is the first 10 customers and how do you reach them? If you can't name them specifically, the idea is too vague.
+
+ITEM: tag=growth | effort=30 min | Make the final call
+Pick one. The goal is not to find the perfect idea — it is to pick something specific enough to act on. You can pivot. You cannot build nothing.
+
+SECTION: Build the MVP with AI
+
+ITEM: tag=product | effort=3 hrs | Define what the MVP does in one sentence
+Not a paragraph. One sentence. If you cannot describe it in one sentence it is not specific enough yet.
+
+ITEM: tag=product | effort=1 day | Build V1 using Claude or Cursor
+Use Claude Code or Cursor to build the simplest possible version. It does not need to be polished. It needs to do the one thing.
+
+ITEM: tag=product | effort=1 hr | Get 3 people to try it before you market it
+Not for feedback on features — for one question: did it solve the problem you promised? If yes, start marketing. If no, fix that one thing first.
+
+PHASE: soon | Marketing — start next week | Before the product is perfect
+
+SECTION: First marketing actions
+
+ITEM: tag=growth | effort=1 hr | Write your first LinkedIn post
+Not a product announcement. A story: the problem you noticed, why it matters, what you built. Specific and personal beats polished and generic every time.
+
+ITEM: tag=growth | effort=30 min | DM 10 people who fit your target customer
+Not a pitch. One sentence describing the problem and asking if they experience it. If 3 out of 10 say yes, you have something worth building.
+
+ITEM: tag=content | effort=1 hr | Write 5 posts for next week scheduled
+One per day. Rotate: problem post, solution post, behind-the-scenes post, customer insight post, personal story post. Write them all now so you do not have to think about it daily.
+
+ITEM: tag=growth | effort=30 min | Set up a simple landing page
+One headline, one subheadline, one email capture. Carrd.co is free and takes 20 minutes. You need somewhere to send people.
+
+PHASE: later | Ongoing | Keep the momentum
+
+SECTION: Weekly habits
+
+ITEM: tag=product | effort=40 min/day | One case per day minimum
+Non-negotiable during recruiting season. Everything else can flex around this.
+
+ITEM: tag=growth | effort=1 hr/week | Review idea progress every Sunday
+Is this still the right idea? What did you learn this week? What is the one thing to do differently next week?
+
+ITEM: tag=content | effort=2 hrs/week | Content and outreach block
+Schedule it. If it is not in the calendar it will not happen alongside internship and studying.
